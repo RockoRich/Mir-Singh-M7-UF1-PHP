@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <Familia>
+        <rol>Hijo</rol>
+        <nombre>Mir</nombre>
+        <apellido>Singh</apellido>
+        <edad>20</edad>
+        <genero>M</genero>
+    </Familia>

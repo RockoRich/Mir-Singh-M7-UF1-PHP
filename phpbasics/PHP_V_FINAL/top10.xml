@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<top10>
+    <jugador>
+        <nombre>Lionel</nombre>
+        <apellido>Messi</apellido>
+        <altura>170 cm</altura>
+        <peso>72 kg</peso>
+        <equipo>Paris Saint-Germain</equipo>
+        <posicion>Delantero</posicion>
+        <dorsal>30</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Cristiano</nombre>
+        <apellido>Ronaldo</apellido>
+        <altura>187 cm</altura>
+        <peso>83 kg</peso>
+        <equipo>Manchester United</equipo>
+        <posicion>Delantero</posicion>
+        <dorsal>7</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Neymar</nombre>
+        <apellido>Jr.</apellido>
+        <altura>175 cm</altura>
+        <peso>68 kg</peso>
+        <equipo>Paris Saint-Germain</equipo>
+        <posicion>Delantero</posicion>
+        <dorsal>10</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Robert</nombre>
+        <apellido>Lewandowski</apellido>
+        <altura>185 cm</altura>
+        <peso>81 kg</peso>
+        <equipo>Bayern Munich</equipo>
+        <posicion>Delantero</posicion>
+        <dorsal>9</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Kylian</nombre>
+        <apellido>Mbappé</apellido>
+        <altura>178 cm</altura>
+        <peso>73 kg</peso>
+        <equipo>Paris Saint-Germain</equipo>
+        <posicion>Delantero</posicion>
+        <dorsal>7</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Sergio</nombre>
+        <apellido>Ramos</apellido>
+        <altura>184 cm</altura>
+        <peso>75 kg</peso>
+        <equipo>Paris Saint-Germain</equipo>
+        <posicion>Defensa</posicion>
+        <dorsal>4</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Mohamed</nombre>
+        <apellido>Salah</apellido>
+        <altura>175 cm</altura>
+        <peso>71 kg</peso>
+        <equipo>Liverpool</equipo>
+        <posicion>Delantero</posicion>
+        <dorsal>11</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Kevin</nombre>
+        <apellido>De Bruyne</apellido>
+        <altura>181 cm</altura>
+        <peso>70 kg</peso>
+        <equipo>Manchester City</equipo>
+        <posicion>Centrocampista</posicion>
+        <dorsal>17</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Jan</nombre>
+        <apellido>Vertonghen</apellido>
+        <altura>189 cm</altura>
+        <peso>86 kg</peso>
+        <equipo>Benfica</equipo>
+        <posicion>Defensa</posicion>
+        <dorsal>5</dorsal>
+    </jugador>
+    <jugador>
+        <nombre>Manuel</nombre>
+        <apellido>Neuer</apellido>
+        <altura>193 cm</altura>
+        <peso>92 kg</peso>
+        <equipo>Bayern Munich</equipo>
+        <posicion>Portero</posicion>
+        <dorsal>1</dorsal>
+    </jugador>
+</top10>

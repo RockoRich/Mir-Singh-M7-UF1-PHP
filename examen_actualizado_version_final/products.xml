@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <products>
+        <product>
+            <id>1</id>
+            <name>Coca-Cola</name>
+            <price>10</price>
+        </product>
+        <product>
+            <id>2</id>
+            <name>Pepsi</name>
+            <price>15</price>
+        </product>
+    </products>
+        
